@@ -1,0 +1,36 @@
+venv/
+env/
+
+# Trash
+__pycache__
+ppo/__pycache__
+.pytest_cache/
+.coverage
+dist/
+build/
+tmp/
+*.iml
+*.log
+logs
+!logs/*-sample.log
+.ipynb_checkpoints
+
+# IDE
+.vscode
+.idea
+.iml
+
+# Mac
+.DS_Store
+
+# Garbage
+$RECYCLE.BIN/
+*.bkp
+
+# Archives
+*.tar.gz
+*.whl
+*.zip
+ml-100k
+embs
+*submission*

@@ -31,6 +31,6 @@ $RECYCLE.BIN/
 *.tar.gz
 *.whl
 *.zip
-ml-100k
+ml-*
 embs
 *submission*

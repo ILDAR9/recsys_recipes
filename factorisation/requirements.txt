@@ -1,0 +1,4 @@
+lightfm==1.17
+optuna==3.3.0
+implicit==0.7.0
+faiss-cpu==1.7.4

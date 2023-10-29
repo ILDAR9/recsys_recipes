@@ -34,3 +34,6 @@ $RECYCLE.BIN/
 ml-*
 embs
 *submission*
+raw/
+Cora/
+processed/

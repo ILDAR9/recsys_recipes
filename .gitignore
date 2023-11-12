@@ -30,7 +30,6 @@ $RECYCLE.BIN/
 # Archives
 *.tar.gz
 *.whl
-*.zip
 ml-*
 embs
 *submission*
